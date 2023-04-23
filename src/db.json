@@ -1,0 +1,188 @@
+{
+  "collection": [
+    {
+      "id": "LP 7079",
+      "title": "Saxophone Colossus",
+      "coverUrl": "https://archive.org/download/mbid-e29d9fea-4e28-412f-8b92-93b67bcd4f85/mbid-e29d9fea-4e28-412f-8b92-93b67bcd4f85-20439700773_thumb250.jpg",
+      "artist": "Sonny Rollins",
+      "year": 1957,
+      "price": 29.99
+    },
+    {
+      "id": "PRLP 7094",
+      "title": "Cookin' With",
+      "coverUrl": "https://archive.org/download/mbid-b4fe63e3-6358-40ce-8d67-96a7885a9c8b/mbid-b4fe63e3-6358-40ce-8d67-96a7885a9c8b-21383377566_thumb250.jpg",
+      "artist": "The Miles Davis Quintet",
+      "year": 1957,
+      "price": 29.99
+    },
+    {
+      "id": "BLP 7105",
+      "title": "Coltrane",
+      "coverUrl": "https://archive.org/download/mbid-908b62cb-aede-34b3-9cc0-1296d37e08b2/mbid-908b62cb-aede-34b3-9cc0-1296d37e08b2-20457236721_thumb250.jpg",
+      "artist": "John Coltrane",
+      "year": 1957,
+      "price": 29.99
+    },
+    {
+      "id": "CL 1041",
+      "title": "Miles Ahead",
+      "coverUrl": "https://archive.org/download/mbid-fa2f4010-26b5-4b7f-a087-59bde5ad4bdd/mbid-fa2f4010-26b5-4b7f-a087-59bde5ad4bdd-15146165724_thumb250.jpg",
+      "artist": "Miles Davis",
+      "year": 1957,
+      "price": 29.99
+    },
+    {
+      "id": "BLP 1577",
+      "title": "Blue Train",
+      "coverUrl": "https://archive.org/download/mbid-e4f37b02-8603-3468-b4dc-bed27e3b2a2b/mbid-e4f37b02-8603-3468-b4dc-bed27e3b2a2b-11766231712_thumb250.jpg",
+      "artist": "John Coltrane",
+      "year": 1957,
+      "price": 29.99
+    },
+    {
+      "id": "CL 1193",
+      "title": "Milestones",
+      "coverUrl": "https://archive.org/download/mbid-216062a1-113e-4e15-8acf-895e33dfce1f/mbid-216062a1-113e-4e15-8acf-895e33dfce1f-23368199718_thumb250.jpg",
+      "artist": "Miles Davis",
+      "year": 1958,
+      "price": 29.99
+    },
+    {
+      "id": "BST 1595",
+      "title": "Somethin' Else",
+      "coverUrl": "https://archive.org/download/mbid-12c3ef02-0b5d-3350-968c-0af67a329ae0/mbid-12c3ef02-0b5d-3350-968c-0af67a329ae0-4653822728_thumb250.jpg",
+      "artist": "Cannonball Adderly",
+      "year": 1958,
+      "price": 29.99
+    },
+    {
+      "id": "7142",
+      "title": "Soultrane",
+      "coverUrl": "https://archive.org/download/mbid-e0b78863-2e8d-3786-bca6-4382058f5c8c/mbid-e0b78863-2e8d-3786-bca6-4382058f5c8c-20472412788_thumb250.jpg",
+      "artist": "John Coltrane",
+      "year": 1958,
+      "price": 29.99
+    },
+    {
+      "id": "BLP 4003",
+      "title": "Moanin'",
+      "coverUrl": "https://archive.org/download/mbid-68cf83c9-3f68-4af2-9edd-37f22d5da600/mbid-68cf83c9-3f68-4af2-9edd-37f22d5da600-3416860049_thumb250.jpg",
+      "artist": "Art Blakey & The Jazz Messengers",
+      "year": 1958,
+      "price": 29.99
+    },
+    {
+      "id": "PRLP 7129",
+      "title": "Relaxin' With",
+      "coverUrl": "https://archive.org/download/mbid-7975cfc2-47f0-4926-846b-319290c83f79/mbid-7975cfc2-47f0-4926-846b-319290c83f79-3699750132_thumb250.jpg",
+      "artist": "The Miles Davis Quintet",
+      "year": 1958,
+      "price": 29.99
+    },
+    {
+      "id": "BN-1588",
+      "title": "Cool Struttin'",
+      "coverUrl": "https://archive.org/download/mbid-9b062203-7398-3e0a-b5b6-5faed7def8f0/mbid-9b062203-7398-3e0a-b5b6-5faed7def8f0-15728154542_thumb250.jpg",
+      "artist": "Sonny Clark",
+      "year": 1958,
+      "price": 29.99
+    },
+    {
+      "id": "CS 8163",
+      "title": "Kind of Blue",
+      "coverUrl": "https://archive.org/download/mbid-bee5e0cd-1767-4a8e-9578-6455e87ba60b/mbid-bee5e0cd-1767-4a8e-9578-6455e87ba60b-32954426987_thumb250.jpg",
+      "artist": "Miles Davis",
+      "year": 1959,
+      "price": 29.99
+    },
+    {
+      "id": "MG V-8262",
+      "title": "Sonny Side Up",
+      "coverUrl": "https://archive.org/download/mbid-9d4b4979-9b75-47cd-a40b-ba84b3712a57/mbid-9d4b4979-9b75-47cd-a40b-ba84b3712a57-1970621483_thumb250.jpg",
+      "artist": "Gillespie, Stitt & Rollins",
+      "year": 1959,
+      "price": 29.99
+    },
+    {
+      "id": "PRLP 7166",
+      "title": "Workin' With",
+      "coverUrl": "https://archive.org/download/mbid-e4ca574c-ff93-4f69-ac82-b1f587d929b9/mbid-e4ca574c-ff93-4f69-ac82-b1f587d929b9-13529443685_thumb250.jpg",
+      "artist": "The Miles Davis Quintet",
+      "year": 1959,
+      "price": 29.99
+    },
+    {
+      "id": "1311",
+      "title": "Giant Steps",
+      "coverUrl": "https://archive.org/download/mbid-aeeb97ce-e509-4afd-87b9-9538bb252e10/mbid-aeeb97ce-e509-4afd-87b9-9538bb252e10-1304628409_thumb250.jpg",
+      "artist": "John Coltrane",
+      "year": 1960,
+      "price": 29.99
+    },
+    {
+      "id": "CS 8271",
+      "title": "Sketches of Spain",
+      "coverUrl": "https://archive.org/download/mbid-845b7b8e-db6b-4242-a7ad-6b1488500fc8/mbid-845b7b8e-db6b-4242-a7ad-6b1488500fc8-20675162017_thumb250.jpg",
+      "artist": "Miles Davis",
+      "year": 1960,
+      "price": 29.99
+    },
+    {
+      "id": "BLP 4049",
+      "title": "A Night In Tunisia",
+      "coverUrl": "https://archive.org/download/mbid-2f6d1888-a9c7-3891-aeec-b0bf78eee086/mbid-2f6d1888-a9c7-3891-aeec-b0bf78eee086-2132865047_thumb250.jpg",
+      "artist": "Art Blakey & The Jazz Messengers",
+      "year": 1960,
+      "price": 29.99
+    },
+    {
+      "id": "PRLP 7188",
+      "title": "Lush Life",
+      "coverUrl": "https://archive.org/download/mbid-dfc12f85-3baf-41c6-a0e4-8a9802c17a89/mbid-dfc12f85-3baf-41c6-a0e4-8a9802c17a89-11766274515_thumb250.jpg",
+      "artist": "John Coltrane",
+      "year": 1961,
+      "price": 29.99
+    },
+    {
+      "id": "PRLP 7200",
+      "title": "Steamin' With",
+      "coverUrl": "https://archive.org/download/mbid-5de0053c-a7b3-48b5-94c2-377e73aefc0b/mbid-5de0053c-a7b3-48b5-94c2-377e73aefc0b-9998668528_thumb250.jpg",
+      "artist": "The Miles Davis Quintet",
+      "year": 1961,
+      "price": 29.99
+    },
+    {
+      "id": "BST 84090",
+      "title": "Mosaic",
+      "coverUrl": "https://archive.org/download/mbid-960b525e-1812-448d-bf77-dd0ad665139f/mbid-960b525e-1812-448d-bf77-dd0ad665139f-15724208560_thumb250.jpg",
+      "artist": "Art Blakey & The Jazz Messengers",
+      "year": 1961,
+      "price": 29.99
+    },
+    {
+      "id": "SD 1361",
+      "title": "My Favorite Things",
+      "coverUrl": "https://archive.org/download/mbid-759c4afe-4fe7-41e9-b877-2de8600cdd13/mbid-759c4afe-4fe7-41e9-b877-2de8600cdd13-14684741573_thumb250.jpg",
+      "artist": "John Coltrane",
+      "year": 1961,
+      "price": 29.99
+    },
+    {
+      "id": "SD 1373",
+      "title": "Olé Coltrane",
+      "coverUrl": "https://archive.org/download/mbid-f0bd1b2e-bb84-36fc-a251-30d5f1c66b00/mbid-f0bd1b2e-bb84-36fc-a251-30d5f1c66b00-18781526649_thumb250.jpg",
+      "artist": "John Coltrane",
+      "year": 1961,
+      "price": 29.99
+    },
+    {
+      "id": "RM 455",
+      "title": "Cannonball's Bossa Nova",
+      "coverUrl": "https://archive.org/download/mbid-c767aa0f-02c0-425b-bccb-b706f1957b9c/mbid-c767aa0f-02c0-425b-bccb-b706f1957b9c-15916892843_thumb250.jpg",
+      "artist": "Cannonball Adderly",
+      "year": 1961,
+      "price": 29.99
+    }
+  ]
+}
