@@ -1,4 +1,4 @@
-import { Basket } from "./Basket";
+import { ShoppingBasket } from "./ShoppingBasket";
 import { Search } from "@mui/icons-material";
 import { OutlinedInput } from "@mui/material";
 
@@ -27,7 +27,7 @@ export const NavBar = () => {
         sx={{ color: '#5090d3' }}
         placeholder="Search collection..."
         startAdornment={<Search />} />
-      <Basket />
+      <ShoppingBasket />
     </div>
   )
 }
