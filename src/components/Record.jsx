@@ -1,7 +1,5 @@
 import { Button } from "@mui/material";
 import { ShoppingCartRounded } from "@mui/icons-material";
-import { useDispatch } from "react-redux";
-import { addItem } from "../app/basketSlice"
 
 const styles = {
   div: {
@@ -24,17 +22,7 @@ export const Record = ({
   price,
   id
 }) => {
-  const dispatch = useDispatch()
-
-  const addToBasket = () => {
-    dispatch(addItem({
-      title,
-      artist,
-      id,
-      price,
-      quantity: 1
-    }))
-  }
+  const addToBasket = () => null
 
   return (
     <div className="record" style={styles.div}>

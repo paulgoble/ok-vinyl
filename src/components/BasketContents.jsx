@@ -2,14 +2,6 @@ import Button from '@mui/material/Button';
 import ButtonGroup from '@mui/material/ButtonGroup';
 import Stack from '@mui/material/Stack'
 
-import { useSelector, useDispatch } from "react-redux";
-import {
-  removeItemById,
-  incrementItemById,
-  decrementItemById
-} from "../app/basketSlice"
-import { useEffect, useState } from 'react';
-
 const basketStyles = {
   contents: {
     position: 'fixed',
@@ -37,17 +29,17 @@ const basketStyles = {
   }
 }
 
-const BasketItem = ({ item, dispatch}) => (
+const BasketItem = ({ item }) => (
   <li style={basketStyles.item}>
     <h4>{item.title} | {item.artist} <span>&euro; {item.price}</span></h4>
     <Stack spacing={2} direction="row">
       <ButtonGroup size="small" aria-label="small outlined button group">
-        <Button onClick={() => dispatch(incrementItemById(item.id))}>+</Button>
+        <Button onClick={() => null}>+</Button>
         <Button variant="contained">Qty: {item.quantity}</Button>  
-        <Button onClick={() => dispatch(decrementItemById(item.id))}>-</Button>
+        <Button onClick={() => null}>-</Button>
       </ButtonGroup>
         <Button size="small" color="warning"
-          onClick={() => dispatch(removeItemById(item.id))}
+          onClick={() => null}
         >
           Remove
       </Button>
@@ -56,17 +48,8 @@ const BasketItem = ({ item, dispatch}) => (
 )
 
 export const BasketContents = () => {
-  const dispatch = useDispatch()
-  const basket = useSelector(state => state.basket)
-  const [total, setTotal] = useState(0)
-
-  useEffect(() => {
-    let t = 0
-    basket.forEach((item) => {
-      t += item.price * item.quantity
-    })
-    setTotal(t)
-  }, [basket])
+  const basket = []
+  const total = 0
 
   return (
     <div style={basketStyles.contents}>
@@ -74,7 +57,7 @@ export const BasketContents = () => {
       <ul>
         {basket.length ?
           basket.map((item) => (
-            <BasketItem key={item.id} item={item} dispatch={dispatch} />
+            <BasketItem key={item.id} item={item} />
           )) : null
         }
       </ul>
